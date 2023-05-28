@@ -9,7 +9,7 @@ const hst_port = 8083
 const hst_username = 'admin'
 const hst_password = 'p4ssw0rd'
 const hst_returncode = 'yes'
-const hst_command = 'v-add-databse'
+const hst_command = 'v-add-database'
 
 //Domain details
 const username = 'demo'
